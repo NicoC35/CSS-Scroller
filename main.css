@@ -92,6 +92,7 @@ li{
     position: absolute;
     top: 5rem;
     right: 5rem;
+    width: 5rem;
     height: 4rem;
     display: flex;
     flex-direction: column;
