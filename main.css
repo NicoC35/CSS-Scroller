@@ -433,10 +433,6 @@ li{
 
 
 /* Start contact */
-.contact{
-    background-color: rgba(0,0,0,0.05);
-}
-
 form{
     width: 70%;
     margin: 0 auto;
@@ -482,5 +478,26 @@ input[type="submit"]:hover{
     background-color: #161A2F;
     padding: 3rem 0;
     position: relative;
+}
+
+.up{
+    position: absolute;
+    width: 5rem;
+    height: 5rem;
+    background-color: #498EC8;
+    top: -2.7rem;
+    right: 5rem;
+    border-radius: 100%;
+    display: flex;
+}
+
+.up i{
+    color: #DBF0FD;
+    font-size: 2rem;
+    margin: auto;
+}
+
+.copyright p{
+    font-size: 1.4rem;
 }
 /*End footer*/
