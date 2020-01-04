@@ -565,7 +565,7 @@ input[type="submit"]:hover{
     }
 
     .nav-link{
-        font-size: ;
+        font-size: 4.5rem;
     }
 
     .about-heading h1{
@@ -580,7 +580,7 @@ input[type="submit"]:hover{
         flex-direction: initial;
     }
 
-    ,.about-details li{
+    .about-details li{
         margin: 0 2rem;
     }
 
@@ -590,7 +590,7 @@ input[type="submit"]:hover{
     }
 
     .icon-container i{
-        font-size: : rem;
+        font-size: 4rem;
     }
 
     .timeline ul{
