@@ -339,6 +339,8 @@ li{
     align-items: center;
     justify-content: center;
     margin-bottom: 5rem;
+    margin-left: 5rem;
+    margin-right: 5rem;
 }
 
 .portfolio-item:last-child{
@@ -351,6 +353,10 @@ li{
 
 #profilepic{
     border-radius: 4px;
+}
+
+.portfolio-description{
+    flex: 1;
 }
 
 .portfolio-description h1{
