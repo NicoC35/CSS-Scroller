@@ -542,6 +542,13 @@ input[type="submit"]:hover{
 /*End footer*/
 
 /* Media queries */
+@media screen and (max-width: 1540px){
+    .nav-list{
+        flex-direction: column;
+    }
+}
+
+
 @media screen and (max-width: 768px){
     body {
         background: url("images/sitebg.jpg") no-repeat center fixed;
