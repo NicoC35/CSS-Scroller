@@ -569,8 +569,8 @@ input[type="submit"]:hover{
         font-size: 1.7rem;
     }
 
-    .nav-list{
-        flex-direction: column;
+    .nav-list:first-child{
+        flex-flow: column nowrap;
     }
 
     li{
